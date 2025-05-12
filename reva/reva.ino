@@ -20,7 +20,7 @@ const char* ssid = "OPPOF";
 const char* password = "darshan@123";
 
 // AWS IoT Configuration
-const char* awsEndpoint = "a2f5z2kpqmf02a-ats.iot.ap-south-1.amazonaws.com";
+const char* awsEndpoint = "add_awsEndpoint";
 const int awsPort = 8883;
 const char* mqttTopic = "REVA/INDUSTRIAL_MONITORING_SYSTEM/";
 
